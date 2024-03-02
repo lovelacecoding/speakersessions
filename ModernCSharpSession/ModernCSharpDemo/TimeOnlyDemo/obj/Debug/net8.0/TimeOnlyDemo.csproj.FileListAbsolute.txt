@@ -1,0 +1,14 @@
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\bin\Debug\net8.0\TimeOnlyDemo.exe
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\bin\Debug\net8.0\TimeOnlyDemo.deps.json
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\bin\Debug\net8.0\TimeOnlyDemo.runtimeconfig.json
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\bin\Debug\net8.0\TimeOnlyDemo.dll
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\bin\Debug\net8.0\TimeOnlyDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.AssemblyInfoInputs.cache
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.AssemblyInfo.cs
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.csproj.CoreCompileInputs.cache
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.dll
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\refint\TimeOnlyDemo.dll
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\TimeOnlyDemo.genruntimeconfig.cache
+C:\SpeakerSessions\DevWorldDemo\TimeOnlyDemo\obj\Debug\net8.0\ref\TimeOnlyDemo.dll

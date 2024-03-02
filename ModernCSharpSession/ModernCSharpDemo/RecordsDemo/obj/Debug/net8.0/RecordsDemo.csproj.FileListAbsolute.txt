@@ -1,0 +1,14 @@
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\bin\Debug\net8.0\RecordsDemo.exe
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\bin\Debug\net8.0\RecordsDemo.deps.json
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\bin\Debug\net8.0\RecordsDemo.runtimeconfig.json
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\bin\Debug\net8.0\RecordsDemo.dll
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\bin\Debug\net8.0\RecordsDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.AssemblyInfoInputs.cache
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.AssemblyInfo.cs
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.csproj.CoreCompileInputs.cache
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.dll
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\refint\RecordsDemo.dll
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\RecordsDemo.genruntimeconfig.cache
+C:\SpeakerSessions\DevWorldDemo\RecordsDemo\obj\Debug\net8.0\ref\RecordsDemo.dll

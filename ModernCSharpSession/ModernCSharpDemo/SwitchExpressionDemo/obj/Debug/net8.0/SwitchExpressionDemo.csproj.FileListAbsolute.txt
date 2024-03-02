@@ -1,0 +1,14 @@
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\bin\Debug\net8.0\SwitchExpressionDemo.exe
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\bin\Debug\net8.0\SwitchExpressionDemo.deps.json
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\bin\Debug\net8.0\SwitchExpressionDemo.runtimeconfig.json
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\bin\Debug\net8.0\SwitchExpressionDemo.dll
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\bin\Debug\net8.0\SwitchExpressionDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.AssemblyInfoInputs.cache
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.AssemblyInfo.cs
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.csproj.CoreCompileInputs.cache
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.dll
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\refint\SwitchExpressionDemo.dll
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\SwitchExpressionDemo.genruntimeconfig.cache
+C:\SpeakerSessions\DevWorldDemo\SwitchExpressionDemo\obj\Debug\net8.0\ref\SwitchExpressionDemo.dll

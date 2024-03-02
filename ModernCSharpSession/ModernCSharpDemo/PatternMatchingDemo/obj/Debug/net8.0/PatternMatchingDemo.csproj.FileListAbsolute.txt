@@ -1,0 +1,14 @@
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\bin\Debug\net8.0\PatternMatchingDemo.exe
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\bin\Debug\net8.0\PatternMatchingDemo.deps.json
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\bin\Debug\net8.0\PatternMatchingDemo.runtimeconfig.json
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\bin\Debug\net8.0\PatternMatchingDemo.dll
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\bin\Debug\net8.0\PatternMatchingDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.AssemblyInfoInputs.cache
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.AssemblyInfo.cs
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.csproj.CoreCompileInputs.cache
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.dll
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\refint\PatternMatchingDemo.dll
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.pdb
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\PatternMatchingDemo.genruntimeconfig.cache
+C:\SpeakerSessions\DevWorldDemo\PatternMatchingDemo\obj\Debug\net8.0\ref\PatternMatchingDemo.dll
