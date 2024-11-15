@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\speakersessions\\SemanticKernel\\SemanticKernelCopilot\\SemanticKernelCopilot.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\speakersessions\\SemanticKernel\\SemanticKernelCopilot\\SemanticKernelCopilot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\speakersessions\\SemanticKernel\\SemanticKernelCopilot\\SemanticKernelCopilot.csproj",
+        "projectName": "SemanticKernelCopilot",
+        "projectPath": "C:\\Code\\speakersessions\\SemanticKernel\\SemanticKernelCopilot\\SemanticKernelCopilot.csproj",
+        "packagesPath": "C:\\Users\\louel\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\speakersessions\\SemanticKernel\\SemanticKernelCopilot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\louel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.SemanticKernel": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.AzureOpenAI": {
+              "target": "Package",
+              "version": "[1.29.0, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Ollama": {
+              "target": "Package",
+              "version": "[1.29.0-alpha, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Sqlite": {
+              "target": "Package",
+              "version": "[1.29.0-preview, )"
+            },
+            "Oddity": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
