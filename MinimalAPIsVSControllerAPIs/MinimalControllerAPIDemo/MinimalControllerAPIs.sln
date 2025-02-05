@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI", "MinimalAPI\MinimalAPI.csproj", "{8FCEBD71-2DF9-434B-B7AA-12B08B07D263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerAPI", "ControllerAPI\ControllerAPI.csproj", "{B709A368-88EC-49AD-A421-2B6683ADF8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCEBD71-2DF9-434B-B7AA-12B08B07D263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCEBD71-2DF9-434B-B7AA-12B08B07D263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCEBD71-2DF9-434B-B7AA-12B08B07D263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCEBD71-2DF9-434B-B7AA-12B08B07D263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B709A368-88EC-49AD-A421-2B6683ADF8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B709A368-88EC-49AD-A421-2B6683ADF8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B709A368-88EC-49AD-A421-2B6683ADF8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B709A368-88EC-49AD-A421-2B6683ADF8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

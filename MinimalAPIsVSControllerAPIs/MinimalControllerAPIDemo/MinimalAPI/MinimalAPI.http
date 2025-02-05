@@ -1,0 +1,35 @@
+@MinimalAPI_HostAddress = http://localhost:5097
+
+### Hello world
+GET {{MinimalAPI_HostAddress}}/helloworld
+Accept: application/json
+
+### Get all Fika Pastries
+GET {{MinimalAPI_HostAddress}}/api/fikapastries
+Accept: application/json
+
+### Get a single Fika Pastry by ID
+GET {{MinimalAPI_HostAddress}}/api/fikapastries/1
+Accept: application/json
+
+### Create a new Fika Pastry
+POST {{MinimalAPI_HostAddress}}/api/fikapastries
+Content-Type: application/json
+
+{
+  "name": "Cinnamon Bun",
+  "description": "A sweet, spiced pastry popular in Sweden."
+}
+
+### Update an existing Fika Pastry
+PUT {{MinimalAPI_HostAddress}}/api/fikapastries/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "Updated Cinnamon Bun",
+  "description": "A freshly baked cinnamon bun with extra sugar."
+}
+
+### Delete a Fika Pastry
+DELETE {{MinimalAPI_HostAddress}}/api/fikapastries/1
